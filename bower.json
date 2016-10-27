@@ -1,0 +1,4 @@
+{
+  "name": "jquery.ui.widget.min",
+  "main": ["jquery.ui.widget.js"]
+}
